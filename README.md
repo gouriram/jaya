@@ -1,2 +1,2 @@
-# bujji
-my favorite nickname
+# Jaya Jegileti
+Aspiring Data Scientist
